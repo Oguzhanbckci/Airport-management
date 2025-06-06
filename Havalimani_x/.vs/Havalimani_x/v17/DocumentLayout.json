@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\234410084\\source\\repos\\Havalimani_x\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF422446-E18F-4747-9E27-A49A1294C7A0}|Havalimani_x\\Havalimani_x.csproj|c:\\users\\234410084\\source\\repos\\havalimani_x\\havalimani_x\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF422446-E18F-4747-9E27-A49A1294C7A0}|Havalimani_x\\Havalimani_x.csproj|solutionrelative:havalimani_x\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF422446-E18F-4747-9E27-A49A1294C7A0}|Havalimani_x\\Havalimani_x.csproj|C:\\Users\\234410084\\source\\repos\\Havalimani_x\\havalimani_x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF422446-E18F-4747-9E27-A49A1294C7A0}|Havalimani_x\\Havalimani_x.csproj|solutionrelative:havalimani_x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410084\\source\\repos\\Havalimani_x\\Havalimani_x\\Form6.cs",
+              "RelativeDocumentMoniker": "Havalimani_x\\Form6.cs",
+              "ToolTip": "C:\\Users\\234410084\\source\\repos\\Havalimani_x\\Havalimani_x\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Havalimani_x\\Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:27:07.354Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\234410084\\source\\repos\\Havalimani_x\\Havalimani_x\\Program.cs",
+              "RelativeDocumentMoniker": "Havalimani_x\\Program.cs",
+              "ToolTip": "C:\\Users\\234410084\\source\\repos\\Havalimani_x\\Havalimani_x\\Program.cs",
+              "RelativeToolTip": "Havalimani_x\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:27:05.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
